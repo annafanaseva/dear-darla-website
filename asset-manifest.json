@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/dear-darla-website/static/css/main.6d51cc1b.css",
+    "main.js": "/dear-darla-website/static/js/main.7484bffc.js",
+    "static/js/787.37585b9d.chunk.js": "/dear-darla-website/static/js/787.37585b9d.chunk.js",
+    "static/media/IMG_8817.JPG": "/dear-darla-website/static/media/IMG_8817.1c4d5bddd53f6042ebbd.JPG",
+    "static/media/IMG_8819.JPG": "/dear-darla-website/static/media/IMG_8819.b0db03304e006de2ec6b.JPG",
+    "static/media/IMG_8690.JPG": "/dear-darla-website/static/media/IMG_8690.0a9b743f19f17caf3b93.JPG",
+    "static/media/IMG_9515.JPG": "/dear-darla-website/static/media/IMG_9515.92a3e1c99a4dd0cdf501.JPG",
+    "static/media/IMG_8689.JPG": "/dear-darla-website/static/media/IMG_8689.d2b11b67603228d9ebdd.JPG",
+    "static/media/IMG_9517.JPG": "/dear-darla-website/static/media/IMG_9517.f37e2560e0dfabb92a8a.JPG",
+    "static/media/IMG_8953.JPG": "/dear-darla-website/static/media/IMG_8953.422ca298cc9a82a3397a.JPG",
+    "static/media/IMG_8688.JPG": "/dear-darla-website/static/media/IMG_8688.ea0a4bff9d02678da243.JPG",
+    "static/media/IMG_9317.JPG": "/dear-darla-website/static/media/IMG_9317.941e767eb84ed3673954.JPG",
+    "static/media/IMG_7955.JPG": "/dear-darla-website/static/media/IMG_7955.8fd9f6d397b5698aa859.JPG",
+    "static/media/IMG_8298.JPG": "/dear-darla-website/static/media/IMG_8298.0938a6087889c362ad7d.JPG",
+    "static/media/IMG_6805.JPG": "/dear-darla-website/static/media/IMG_6805.105c993105c35059d2c9.JPG",
+    "static/media/IMG_9318.JPG": "/dear-darla-website/static/media/IMG_9318.be7f9704c832392bc68f.JPG",
+    "static/media/IMG_0317.JPG": "/dear-darla-website/static/media/IMG_0317.ec68660a7d05df3452b1.JPG",
+    "static/media/IMG_3769.JPG": "/dear-darla-website/static/media/IMG_3769.6d2e0760ae32343e32ef.JPG",
+    "static/media/text-main.svg": "/dear-darla-website/static/media/text-main.4cb2dc651132f6de7a786dfd9b2eb906.svg",
+    "static/media/text.svg": "/dear-darla-website/static/media/text.d357eea3d077a9039e08877cfeb7d025.svg",
+    "static/media/text-contact-main.svg": "/dear-darla-website/static/media/text-contact-main.3a72bbfd404dce1ace13353b196f689b.svg",
+    "static/media/logo.png": "/dear-darla-website/static/media/logo.25c2a76afbf938ad2ec3.png",
+    "static/media/dary.jpg": "/dear-darla-website/static/media/dary.6d1e2edd8fa35197046f.jpg",
+    "static/media/whatsapp.svg": "/dear-darla-website/static/media/whatsapp.c562adf282dcefb50066ada8135d25fe.svg",
+    "static/media/instagram.svg": "/dear-darla-website/static/media/instagram.aa46145f031f60f71eb0c6b176b295e0.svg",
+    "static/media/telegram.svg": "/dear-darla-website/static/media/telegram.655c9e5e53aaa94ddb2037fc5e7490cd.svg",
+    "index.html": "/dear-darla-website/index.html",
+    "main.6d51cc1b.css.map": "/dear-darla-website/static/css/main.6d51cc1b.css.map",
+    "main.7484bffc.js.map": "/dear-darla-website/static/js/main.7484bffc.js.map",
+    "787.37585b9d.chunk.js.map": "/dear-darla-website/static/js/787.37585b9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d51cc1b.css",
+    "static/js/main.7484bffc.js"
+  ]
+}
