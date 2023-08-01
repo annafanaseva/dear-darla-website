@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dear-darla-website/static/css/main.6d51cc1b.css",
-    "main.js": "/dear-darla-website/static/js/main.7484bffc.js",
+    "main.js": "/dear-darla-website/static/js/main.50e57110.js",
     "static/js/787.37585b9d.chunk.js": "/dear-darla-website/static/js/787.37585b9d.chunk.js",
     "static/media/IMG_8817.JPG": "/dear-darla-website/static/media/IMG_8817.1c4d5bddd53f6042ebbd.JPG",
     "static/media/IMG_8819.JPG": "/dear-darla-website/static/media/IMG_8819.b0db03304e006de2ec6b.JPG",
@@ -28,11 +28,11 @@
     "static/media/telegram.svg": "/dear-darla-website/static/media/telegram.655c9e5e53aaa94ddb2037fc5e7490cd.svg",
     "index.html": "/dear-darla-website/index.html",
     "main.6d51cc1b.css.map": "/dear-darla-website/static/css/main.6d51cc1b.css.map",
-    "main.7484bffc.js.map": "/dear-darla-website/static/js/main.7484bffc.js.map",
+    "main.50e57110.js.map": "/dear-darla-website/static/js/main.50e57110.js.map",
     "787.37585b9d.chunk.js.map": "/dear-darla-website/static/js/787.37585b9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d51cc1b.css",
-    "static/js/main.7484bffc.js"
+    "static/js/main.50e57110.js"
   ]
 }
