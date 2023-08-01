@@ -3,19 +3,16 @@ import { Parallax } from 'react-scroll-parallax';
 
 import { photos } from '../../constants';
 import Button from '../Button';
-import text from '../../assets/img/text.svg';
-import textMain from '../../assets/img/text-main.svg';
 
 import styles from './Hero.module.scss';
 
 const Hero = () => {
   return (
     <div className={styles.hero}>
-      <img
-        className={styles.heroTopQuote}
-        src={text}
-        alt="Профессиональный визажист в Москве Славкова Дарья"
-      />
+      <div className={styles.heroTopQuote}>
+        “Я верю, что макияж - это не маска, а инструмент, который помогает подчеркнуть
+        индивидуальность и улучшить самочувствие”
+      </div>
 
       <div className={styles.wrapper}>
         {photos &&
@@ -26,17 +23,17 @@ const Hero = () => {
               speed={100}
               opacity={[0.7, 1, 'easeOutQuad']}
               key={idx}
-              className={styles.imgWrapper}>
+              className={styles.imgWrapper}
+            >
               <img src={photo.img} alt="Профессиональный визажист в Москве Славкова Дарья" />
             </Parallax>
           ))}
       </div>
 
-      <img
-        className={styles.heroBottomQuote}
-        src={textMain}
-        alt="Профессиональный визажист в Москве Славкова Дарья"
-      />
+      <div className={styles.heroBottomQuote}>
+        “Я открыта для ваших идей и всегда готова совместно работать над созданием идеального
+        образа, который вы мечтаете увидеть”
+      </div>
 
       <Parallax translateY={[-10, 40, 'easeIn']} speed={10} className={styles.button}>
         <Link to="https://t.me/deardarla0">

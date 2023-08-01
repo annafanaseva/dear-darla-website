@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 
-import textContactMain from '../../assets/img/text-contact-main.svg';
 import Button from '../Button';
 import instIcon from '../../assets/img/instagram.svg';
 import telegramIcon from '../../assets/img/telegram.svg';
@@ -13,11 +12,10 @@ import styles from './Contact.module.scss';
 const Contact = () => {
   return (
     <div className={styles.hero}>
-      <img
-        src={textContactMain}
-        className={styles.heroTopQuote}
-        alt="Профессиональный визажист в Москве Славкова Дарья"
-      />
+      <div className={styles.heroTopQuote}>
+        “Моя страсть - создавать неповторимые образы, подчеркивая естественную красоту каждого
+        человека”
+      </div>
 
       <div className={styles.wrapper}>
         <div className={styles.links}>
