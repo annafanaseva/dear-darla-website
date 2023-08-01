@@ -1,0 +1,72 @@
+@import "/src/scss/variables.scss";
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 140px;
+  background-color: $backgroundColor;
+}
+
+.wrapper {
+  width: 1260px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+
+  @media (max-width: 1280px) {
+    width: 1000px;
+  }
+
+  @media (max-width: 1024px) {
+    width: 960px;
+  }
+
+  @media (max-width: 980px) {
+    width: 700px;
+  }
+
+  @media (max-width: 768px) {
+    width: 600px;
+  }
+
+  @media (max-width: 650px) {
+    width: 450px;
+  }
+
+  @media (max-width: 480px) {
+    width: 300px;
+  }
+}
+
+.links {
+  margin: 30px auto;
+}
+
+.link {
+  margin-right: 20px;
+  transition: 0.5s;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  &:hover img {
+    transform: scale(1.1);
+    transition: 0.5s;
+  }
+}
+
+.footerText {
+  margin: 0;
+  line-height: 1.2;
+  font-weight: 300;
+  font-size: 14px;
+
+  @media (max-width: 480px) {
+    text-align: center;
+  }
+}
