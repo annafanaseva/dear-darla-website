@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dear-darla-website/static/css/main.6d51cc1b.css",
-    "main.js": "/dear-darla-website/static/js/main.50e57110.js",
+    "main.css": "/dear-darla-website/static/css/main.f3439859.css",
+    "main.js": "/dear-darla-website/static/js/main.97bae7f2.js",
     "static/js/787.37585b9d.chunk.js": "/dear-darla-website/static/js/787.37585b9d.chunk.js",
     "static/media/IMG_8817.JPG": "/dear-darla-website/static/media/IMG_8817.1c4d5bddd53f6042ebbd.JPG",
     "static/media/IMG_8819.JPG": "/dear-darla-website/static/media/IMG_8819.b0db03304e006de2ec6b.JPG",
@@ -18,21 +18,19 @@
     "static/media/IMG_9318.JPG": "/dear-darla-website/static/media/IMG_9318.be7f9704c832392bc68f.JPG",
     "static/media/IMG_0317.JPG": "/dear-darla-website/static/media/IMG_0317.ec68660a7d05df3452b1.JPG",
     "static/media/IMG_3769.JPG": "/dear-darla-website/static/media/IMG_3769.6d2e0760ae32343e32ef.JPG",
-    "static/media/text-main.svg": "/dear-darla-website/static/media/text-main.4cb2dc651132f6de7a786dfd9b2eb906.svg",
-    "static/media/text.svg": "/dear-darla-website/static/media/text.d357eea3d077a9039e08877cfeb7d025.svg",
-    "static/media/text-contact-main.svg": "/dear-darla-website/static/media/text-contact-main.3a72bbfd404dce1ace13353b196f689b.svg",
+    "static/media/BadScript-Regular.ttf": "/dear-darla-website/static/media/BadScript-Regular.090c088fca12d36b16d3.ttf",
     "static/media/logo.png": "/dear-darla-website/static/media/logo.25c2a76afbf938ad2ec3.png",
     "static/media/dary.jpg": "/dear-darla-website/static/media/dary.6d1e2edd8fa35197046f.jpg",
     "static/media/whatsapp.svg": "/dear-darla-website/static/media/whatsapp.c562adf282dcefb50066ada8135d25fe.svg",
     "static/media/instagram.svg": "/dear-darla-website/static/media/instagram.aa46145f031f60f71eb0c6b176b295e0.svg",
     "static/media/telegram.svg": "/dear-darla-website/static/media/telegram.655c9e5e53aaa94ddb2037fc5e7490cd.svg",
     "index.html": "/dear-darla-website/index.html",
-    "main.6d51cc1b.css.map": "/dear-darla-website/static/css/main.6d51cc1b.css.map",
-    "main.50e57110.js.map": "/dear-darla-website/static/js/main.50e57110.js.map",
+    "main.f3439859.css.map": "/dear-darla-website/static/css/main.f3439859.css.map",
+    "main.97bae7f2.js.map": "/dear-darla-website/static/js/main.97bae7f2.js.map",
     "787.37585b9d.chunk.js.map": "/dear-darla-website/static/js/787.37585b9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d51cc1b.css",
-    "static/js/main.50e57110.js"
+    "static/css/main.f3439859.css",
+    "static/js/main.97bae7f2.js"
   ]
 }
